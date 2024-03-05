@@ -1,0 +1,2 @@
+# loops
+Armstrong,Perfect,Strong
